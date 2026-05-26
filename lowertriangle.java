@@ -9,5 +9,6 @@ class lowertriangle {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

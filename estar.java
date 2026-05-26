@@ -21,5 +21,6 @@ class estar {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

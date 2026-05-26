@@ -21,5 +21,6 @@ class ystar {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

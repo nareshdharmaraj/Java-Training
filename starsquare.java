@@ -9,5 +9,6 @@ class starsquare {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

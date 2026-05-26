@@ -14,5 +14,6 @@ class hallowsquare {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

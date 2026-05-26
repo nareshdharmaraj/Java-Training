@@ -14,5 +14,6 @@ class zstar {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }
