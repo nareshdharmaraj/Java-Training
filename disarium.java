@@ -29,5 +29,6 @@ class disarium {
         else{
             System.out.println("Not Disarium number");
         }
+        sc.close();
     }
 }
