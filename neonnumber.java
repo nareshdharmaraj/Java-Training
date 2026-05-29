@@ -17,7 +17,6 @@ public class neonnumber {
         } else {
             System.out.println(num + " is not a Neon Number");
         }
-
         sc.close();
     }
 }
