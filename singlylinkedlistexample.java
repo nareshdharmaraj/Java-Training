@@ -65,7 +65,7 @@ class SinglyLinkedList{
         System.out.println();
     }
 }
-public class linkedlistexample
+public class singlylinkedlistexample
 {
 	public static void main(String[] args) {
 		SinglyLinkedList sl = new SinglyLinkedList();
