@@ -44,7 +44,7 @@ class SinglyLinkedList{
         temp.next = newNode;
     }
     void deletelast(){
-        Node newNode = new Node();
+        //Node newNode = new Node();
         if(head == null){
             System.out.println("List already null");
         }
